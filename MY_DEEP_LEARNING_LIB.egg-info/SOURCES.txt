@@ -1,0 +1,15 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+MY_DEEP_LEARNING_LIB/__init__.py
+MY_DEEP_LEARNING_LIB/basic_dnn.py
+MY_DEEP_LEARNING_LIB/basic_nn_batch.py
+MY_DEEP_LEARNING_LIB/cnn.py
+MY_DEEP_LEARNING_LIB/create_mnist_jpg.py
+MY_DEEP_LEARNING_LIB/dataset.py
+MY_DEEP_LEARNING_LIB/heigh_resolution_generator_module.py
+MY_DEEP_LEARNING_LIB.egg-info/PKG-INFO
+MY_DEEP_LEARNING_LIB.egg-info/SOURCES.txt
+MY_DEEP_LEARNING_LIB.egg-info/dependency_links.txt
+MY_DEEP_LEARNING_LIB.egg-info/top_level.txt
