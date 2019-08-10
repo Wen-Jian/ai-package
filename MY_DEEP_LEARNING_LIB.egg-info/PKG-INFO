@@ -1,4 +1,4 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.1
 Name: MY-DEEP-LEARNING-LIB
 Version: 0.0.1
 Summary: A package for deep learning.
@@ -6,6 +6,7 @@ Home-page: UNKNOWN
 Author: wen
 Author-email: genning7@gmail.com
 License: MIT
+Download-URL: https://github.com/Wen-Jian/ai-package/archive/v_0.0.1.tar.gz
 Description: UNKNOWN
 Keywords: demo
 Platform: UNKNOWN
