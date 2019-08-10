@@ -18,6 +18,7 @@ setuptools.setup(
     author_email='genning7@gmail.com',
     
     url='',
+    download_url= 'https://github.com/Wen-Jian/ai-package/archive/v_0.0.1.tar.gz'
     packages=setuptools.find_packages(),
     license='MIT'
 )
