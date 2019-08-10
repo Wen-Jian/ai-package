@@ -3,7 +3,7 @@ import numpy as np
 import os
 import cv2
 import MY_DEEP_LEARNING_LIB.dataset as dt
-import MY_DEEP_LEARNING_LIB.cnn
+import MY_DEEP_LEARNING_LIB.cnn as cnn
 
 class HeighResolutionGenerator:
     def __init__(self, datasets, batch_size, input_shape, output_shape, channel_size, model_name='srcnn'):
