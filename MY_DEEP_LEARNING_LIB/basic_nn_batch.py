@@ -6,7 +6,7 @@ import sys
 sys.path.append(os.path.join(os.getcwd(), 'lib'))
 import MY_DEEP_LEARNING_LIB.create_mnist_jpg as im_creator
 from tensorflow.examples.tutorials.mnist import input_data
-mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
+# mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
 
 def add_lyaer(input, input_size, out_size, activation_fucation = None):
     # W1 = tf.get_variable('w1', [input_size, out_size], initializer=tf.random_normal_initializer())

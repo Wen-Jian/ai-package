@@ -8,11 +8,11 @@ import glob
 import sys
 from tensorflow.examples.tutorials.mnist import input_data
 
-mnist = input_data.read_data_sets("MNIST_data/", one_hot = True)
-x_train = mnist.train.images
-y_train = mnist.train.labels
-x_test = mnist.test.images
-y_test = mnist.test.labels
+# mnist = input_data.read_data_sets("MNIST_data/", one_hot = True)
+# x_train = mnist.train.images
+# y_train = mnist.train.labels
+# x_test = mnist.test.images
+# y_test = mnist.test.labels
 
 def x_train_set_to_jpg():
     path = os.path.join(os.getcwd(),'MnistImage/Train')
